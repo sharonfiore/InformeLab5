@@ -1,2 +1,2 @@
 # InformeLab5
-Informe de Laboratorio N ° 04 - Cotrado, Sosa, Aquino, Villegas
+Informe de Laboratorio N ° 05 - Cotrado, Sosa, Aquino, Villegas
