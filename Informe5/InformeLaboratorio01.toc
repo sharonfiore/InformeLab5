@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}INFORMACI\IeC {\'O}N GENERAL}{1}
+\contentsline {subsection}{\numberline {1.1}Objetivos:}{1}
+\contentsline {subsection}{\numberline {1.2}Equipos, materiales, programas y recursos utilizados:}{1}
+\contentsline {section}{\numberline {2}MARCO TEORICO}{2}
+\contentsline {section}{\numberline {3}PROCEDIMIENTO}{3}
+\contentsline {section}{\numberline {4}ANALISIS E INTERPRETACION DE RESULTADOS}{4}
+\contentsline {section}{\numberline {5}CONCLUSIONES}{5}
+\contentsline {section}{\numberline {6}REFERENCIAS}{6}
